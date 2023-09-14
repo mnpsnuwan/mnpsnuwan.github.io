@@ -1,5 +1,18 @@
 module.exports = {
+  siteTitle: 'Nuwan Samarasinghe | Full Stack Software Engineer',
+  siteDescription:
+    'Nuwan Samarasinghe is a Full Stack Software Engineer at CodeGen International (Pvt) Ltd, who loves learning new things and helping tech beginners.',
+  siteKeywords:
+    'Nuwan Samarasinghe, Nuwan, Samarasinghe, mnpsnuwan, software developer, software engineer, software, full stack, full stack software engineer, web developer, java developer, sri lanka, colomobo, tempe, arizona, usa',
+  siteUrl: 'https://mnpsnuwan.github.io/',
+  siteLanguage: 'en_US',
+  // googleAnalyticsID: '',
+  // googleVerification: '',
+  name: 'Nuwan Samarasinghe',
+  location: 'Tempe, Arizona, USA',
   email: 'mnpsnuwan@gmail.com',
+  github: 'https://github.com/mnpsnuwan',
+  twitterHandle: '@NuwanPrabhath',
 
   socialMedia: [
     {
