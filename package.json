@@ -1,4 +1,6 @@
 {
+  "predeploy": "npm run build",
+  "deploy": "npm start",
   "name": "nuwan",
   "description": "Personal Website | Nuwan Samarasinghe",
   "version": "1.0.0",

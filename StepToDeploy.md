@@ -22,4 +22,4 @@
 
 - gatsby build
 
-- npm run deploy
+- npm start
