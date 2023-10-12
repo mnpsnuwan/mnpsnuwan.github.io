@@ -92,7 +92,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <div>
           Copyright © 2023
-          <a href="https://mnpsnuwan.github.io">nuwan.github.io</a>Powered By
+          <a href="https://mnpsnuwan.github.io">mnpsnuwan.github.io</a>Powered By
           <a href="https://imatrixlabs.com">IMATRIXLABS (PVT) LTD.</a>
         </div>
         <div>All Rights Reserved.</div>
