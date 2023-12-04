@@ -11,10 +11,11 @@ tags:
 ![Image Alt](./image.jpg)
 
 ```jsx
-class FlavorForm extends React.Component { // highlight-line
+class FlavorForm extends React.Component {
+  // highlight-line
   constructor(props) {
     super(props);
-    this.state = {value: 'coconut'};
+    this.state = { value: 'coconut' };
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -22,7 +23,7 @@ class FlavorForm extends React.Component { // highlight-line
 
   handleChange(event) {
     // highlight-next-line
-    this.setState({value: event.target.value});
+    this.setState({ value: event.target.value });
   }
 
   // highlight-start
@@ -34,7 +35,6 @@ class FlavorForm extends React.Component { // highlight-line
 
   render() {
     return (
-      { /* highlight-range{1,4-9,12} */ }
       <form onSubmit={this.handleSubmit}>
         <label>
           Pick your favorite flavor:
@@ -52,32 +52,6 @@ class FlavorForm extends React.Component { // highlight-line
 }
 ```
 
-```javascript:title=highlight.js
-// Here is a comment
-function $initHighlight(block, cls) {
-  try {
-    if (cls.search(/\bno\-highlight\b/) != -1)
-      return process(block, true, 0x0F) +
-             ` class="${cls}"`;
-  } catch (e) {
-    /* handle exception */
-  }
-  for (var i = 0 / 2; i < classes.length; i++) {
-    if (checkCondition(classes[i]) === undefined) {
-      console.log('undefined');
-    }
-  }
-
-  return (
-    <div>
-      <web-component>{block}</web-component>
-    </div>
-  )
-}
-
-export $initHighlight;
-```
-
 This is a paragraph.
 
     This is a paragraph.
@@ -91,87 +65,6 @@ This is a paragraph.
 
     Header 2
     --------
-
-```css
-@import 'compass/reset';
-
-// variables
-$colorGreen: #008000;
-$colorGreenDark: darken($colorGreen, 10);
-
-@mixin container {
-  max-width: 980px;
-}
-
-// mixins with parameters
-@mixin button($color: green) {
-  @if ($color == green) {
-    background-color: #008000;
-  } @else if ($color == red) {
-    background-color: #b22222;
-  }
-}
-
-button {
-  @include button(red);
-}
-
-div,
-.navbar,
-#header,
-input[type='input'] {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  width: auto;
-  margin: 0 auto;
-  display: block;
-}
-
-.row-12 > [class*='spans'] {
-  border-left: 1px solid #b5c583;
-}
-
-// nested definitions
-ul {
-  width: 100%;
-  padding: {
-    left: 5px;
-    right: 5px;
-  }
-  li {
-    float: left;
-    margin-right: 10px;
-    .home {
-      background: url('http://placehold.it/20') scroll no-repeat 0 0;
-    }
-  }
-}
-
-.banner {
-  @extend .container;
-}
-
-a {
-  color: $colorGreen;
-  &:hover {
-    color: $colorGreenDark;
-  }
-  &:visited {
-    color: #c458cb;
-  }
-}
-
-@for $i from 1 through 5 {
-  .span#{$i} {
-    width: 20px * $i;
-  }
-}
-
-@mixin mobile {
-  @media screen and (max-width: 600px) {
-    @content;
-  }
-}
-```
 
 ```markdown
 # hello world

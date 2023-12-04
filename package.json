@@ -1,7 +1,7 @@
 {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-  "name": "nuwan",
+  "name": "mnpsnuwan",
   "description": "Personal Website | Nuwan Samarasinghe",
   "version": "1.0.0",
   "author": "Nuwan Samarasinghe <mnpsnuwan@gmail.com>",
