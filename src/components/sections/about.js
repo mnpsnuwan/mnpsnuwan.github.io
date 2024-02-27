@@ -136,42 +136,41 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Nuwan Samarasinghe. I enjoy creating things that live on the
-              internet. My interest in web development, scalable system development, research and
-              development, enterprise application development started back in 2017, soon after
-              graduation from University of Colombo School of Computing, Sri Lanka. Currently, I
-              live in{' '}
-              <a href="https://maps.app.goo.gl/hTSc15YxxTUanBRy6" target="_blank" rel="noreferrer">
-                Tempe, Arizona, USA
-              </a>
-              .
+              Hello! I'm Nuwan Samarasinghe, a passionate Full Stack Software Engineer with over 6
+              years of experience. My journey in web development, scalable system design, research
+              and development, and enterprise application development began in 2017 after graduating
+              from the University of Colombo School of Computing, Sri Lanka.
             </p>
             <p>
-              I'm a Full Stack Software Engineer with 6+ years of industry experience who shows
-              recommended expertise in building and maintaining REST/SOAP web services and Client
-              Applications in large scale distributed enterprise software services (SaaS).
-            </p>
-            <p>
-              Involved in Search Optimization, Load Testing, and Performance Tuning using;
+              I specialize in building and maintaining REST/SOAP web services and Client
+              Applications within large-scale distributed enterprise software services (SaaS). My
+              expertise extends to Search Optimization, Load Testing, and Performance Tuning,
+              utilizing tools like;
               <ul className="skills-list">
                 {testingTools && testingTools.map((tools, i) => <li key={i}>{tools}</li>)}
               </ul>
             </p>
             <p>
-              Experience in Travel domain systems, Ferry booking, Hotel booking, H2H systems, and
-              flight booking domains. Currently working as an Associate Technical Team Lead at{' '}
+              With a focus on the Travel domain, I've contributed to systems in Ferry booking, Hotel
+              booking, H2H systems, and flight booking domains. Currently, I serve as an Associate
+              Technical Team Lead at{' '}
               <a href="https://codegen.co.uk/" target="_blank" rel="noreferrer">
                 Codegen International (Pvt) Ltd
               </a>
               .
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently;</p>
+            <p>My recent tech stack includes;</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+          <p>
+            <ul className="skills-list">
+              {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+            </ul>
+          </p>
+          <p>
+            I take pride in creating solutions that thrive on the internet and contribute to the
+            ever-evolving field of software engineering.
+          </p>
         </StyledText>
 
         <StyledPic>
