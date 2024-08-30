@@ -3,6 +3,8 @@ number: '1'
 title: 'TECHNICAL SKILLS'
 ---
 
+---
+
 | ⚙️BACK END    |     | ⚙️FRONT END  |     | ⚙️DATABASE |
 | :------------ | --- | :----------: | --- | ---------: |
 | ☕Java        |     |    🌐HTML    |     |  🍃MongoDB |
@@ -50,3 +52,5 @@ title: 'TECHNICAL SKILLS'
 |            |     |          |
 | JIRA       |     |  Pycharm |
 |            |     |          |
+
+---

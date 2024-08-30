@@ -3,8 +3,10 @@ number: '2'
 title: 'SOFT SKILLS'
 ---
 
+---
+
 |               |     |     |
-| ------------- | --- | --- |
+| :------------ | --- | --: |
 | Collaborate   | -   | 85% |
 | Communication | -   | 80% |
 | Passion       | -   | 90% |
@@ -15,3 +17,5 @@ title: 'SOFT SKILLS'
 | Fast          | -   | 80% |
 | Vision        | -   | 85% |
 | Creative      | -   | 85% |
+
+---
