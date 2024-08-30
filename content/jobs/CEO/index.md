@@ -1,8 +1,8 @@
 ---
 date: '2023-12-31'
 title: 'Chairman/Founder'
-titleSort: 'CEO-[Imatrix]'
-company: 'IMatrixLabs (Pvt) Ltd'
+titleSort: 'CEO-[IMATRIXLABS]'
+company: 'IMATRIXLABS (PVT) LTD'
 location: 'COLOMBO, SRI LANKA'
 range: 'September 2017 - Present'
 url: 'https://imatrixlabs.com'

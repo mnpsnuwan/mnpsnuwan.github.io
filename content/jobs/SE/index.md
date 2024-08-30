@@ -1,7 +1,7 @@
 ---
 date: '2021-01-31'
 title: 'Software Engineer/Software Project Lead'
-titleSort: 'SE-[CodeGen]'
+titleSort: 'SE-[CODEGEN]'
 company: 'CodeGen International (Pvt) Ltd'
 location: 'COLOMBO, SRI LANKA'
 range: 'October 2018 - January 2021'

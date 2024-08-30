@@ -1,7 +1,7 @@
 ---
 date: '2022-12-31'
 title: 'Senior Software Engineer'
-titleSort: 'SSE-[CodeGen]'
+titleSort: 'SSE-[CODEGEN]'
 company: 'CodeGen International (Pvt) Ltd'
 location: 'COLOMBO, SRI LANKA'
 range: 'February 2021 - January 2023'

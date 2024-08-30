@@ -1,7 +1,7 @@
 ---
 date: '2017-02-28'
 title: 'Trainee Software Engineer'
-titleSort: 'TSE-[Theekshana]'
+titleSort: 'TSE-[THEEKSHANA]'
 company: 'Theekshana R & D'
 location: 'COLOMBO, SRI LANKA'
 range: 'February 2017 - September 2016'

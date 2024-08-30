@@ -1,7 +1,7 @@
 ---
 date: '2023-12-31'
 title: 'Associate Technical Team Lead'
-titleSort: 'ATL-[CodeGen]'
+titleSort: 'ATL-[CODEGEN]'
 company: 'CodeGen International (Pvt) Ltd'
 location: 'COLOMBO, SRI LANKA'
 range: 'February 2023 - Present'

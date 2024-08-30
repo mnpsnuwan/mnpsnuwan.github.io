@@ -136,10 +136,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Nuwan Samarasinghe, a passionate Full Stack Software Engineer with over 6
-              years of experience. My journey in web development, scalable system design, research
-              and development, and enterprise application development began in 2017 after graduating
-              from the University of Colombo School of Computing, Sri Lanka.
+              Hello! I'm Nuwan Samarasinghe, a passionate Lead Full Stack Software Engineer with
+              over 7 years of experience. My journey in web development, scalable system design,
+              research and development, and enterprise application development began in 2017 after
+              graduating from the University of Colombo School of Computing, Sri Lanka.
             </p>
             <p>
               I specialize in building and maintaining REST/SOAP web services and Client

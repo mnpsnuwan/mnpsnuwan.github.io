@@ -1,7 +1,7 @@
 ---
 date: '2018-10-12'
 title: 'Junior Software Engineer'
-titleSort: 'JSE-[Theekshana]'
+titleSort: 'JSE-[THEEKSHANA]'
 company: 'Theekshana R & D'
 location: 'COLOMBO, SRI LANKA'
 range: 'October 2018 - March 2017'
