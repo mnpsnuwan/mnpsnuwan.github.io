@@ -83,7 +83,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-          name: github-pages
 
   # Deployment job
   deploy:
