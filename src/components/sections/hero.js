@@ -65,7 +65,7 @@ const Hero = () => {
   const textRef = useRef();
   const three = (
     <h2 className="heading">
-      Full Stack Software Engineer | <span ref={textRef}>Java, Spring Boot, React JS</span>
+      Lead Full Stack Software Engineer | <span ref={textRef}>Java, Spring Boot, React JS</span>
     </h2>
   );
   const four = (
